@@ -9,3 +9,6 @@
 ![image](https://cdn.discordapp.com/attachments/828589873253449838/1001591490595799272/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/828589873253449838/1001589620934451301/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/828589873253449838/1001589525631488031/unknown.png)
+![image](https://cdn.discordapp.com/attachments/828589873253449838/1001588553844797450/unknown.png)
+![image](https://cdn.discordapp.com/attachments/828589873253449838/1001588987238043719/unknown.png)
+![image](https://cdn.discordapp.com/attachments/828589873253449838/1001588987238043719/unknown.png)
