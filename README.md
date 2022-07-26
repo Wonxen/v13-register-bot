@@ -4,4 +4,8 @@
 
 ### Görseller
 
-- Yakında...
+![image](https://cdn.discordapp.com/attachments/828589873253449838/1001587313895276574/unknown.png)
+![image](https://cdn.discordapp.com/attachments/828589873253449838/1001587685686775820/unknown.png)
+![image](https://cdn.discordapp.com/attachments/828589873253449838/1001591490595799272/unknown.png)
+![image](https://cdn.discordapp.com/attachments/828589873253449838/1001589620934451301/unknown.png)
+![image](https://cdn.discordapp.com/attachments/828589873253449838/1001589525631488031/unknown.png)
