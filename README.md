@@ -16,3 +16,5 @@
 ![image](https://cdn.discordapp.com/attachments/828589873253449838/1001590346041536582/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/828589873253449838/1001591034935005274/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/828589873253449838/1001587798064762880/unknown.png)
+![image](https://cdn.discordapp.com/attachments/828589873253449838/1002829198840299581/unknown.png)
+![image](https://cdn.discordapp.com/attachments/828589873253449838/1002829405162323978/unknown.png)
