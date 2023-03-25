@@ -1,0 +1,68 @@
+{
+  "System": {
+    "Prefix": [".","!"],
+    "Token": "",
+    "MongoDb": ""
+  },
+
+  "Bot": {
+    "Voice": "",
+    "Text": "Developed with ❤️ by Wonxen"
+  },
+
+  "Ayar": {
+    "SupheliName": "Şüpheli | Hesap",
+    "WelcomeName": "İsim | Yaş",
+    "TagliAlim": false,
+    "MinYas": "13"
+  },
+
+  "Guild": {
+    "Tag": "",
+    "SecondryTag": "•",
+    "ID": ""
+  },
+
+  "Channel": {
+    "Rules" : "",
+    "WelcomeVoice" : ["","",""],
+    "Chat": "",
+    "Welcome": ""
+  },
+
+  "Staff": {
+    "List": [
+      "972920818969505875"
+    ]
+  },
+
+  "Permissions": {
+    "Register": ""
+  },
+
+  "Role": {
+    "Vip": "",
+    "Events": ["",""],
+    "Family": "",
+    "Booster": "",
+    "Jail": "",
+    "Suspect": "",
+    "YasaklıTag": ""
+  },
+  
+  "Register" : {
+    "Man": [""],
+    "Woman": [""],
+    "Unregistered": [""]
+  },
+
+  "Parents" : {
+    "Public" : "",
+    "Sleep" : "" 
+  },
+
+  "Others": {
+    "Yes": "wxn_yes",
+    "No": "wxn_no"
+  }
+}
